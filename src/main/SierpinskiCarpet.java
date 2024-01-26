@@ -1,3 +1,5 @@
+package src.main;
+
 public class SierpinskiCarpet {
 
    public static void main(String[] args) {
